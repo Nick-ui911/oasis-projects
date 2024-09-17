@@ -7,7 +7,6 @@ function convert(){
     var converttedValue;
     var resultUnit;
 
-    // Perform conversion logic
 
     switch (fromUnit){
         case 'C':
